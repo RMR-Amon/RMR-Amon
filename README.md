@@ -4,14 +4,14 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudjon+Rahimjonov;Front-End+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;1.5+Years+of+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudjon+Rahimjonov;Front-End+Developer+from+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;1.5+Years+of+Experience" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RMR-Amon&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RMR-Amon&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/RMR-Amon?tab=followers">
-    <img src="https://img.shields.io/github/followers/RMR-Amon?label=Followers&style=for-the-badge&color=00FF00" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/RMR-Amon?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
   </a>
 </div>
 
@@ -117,5 +117,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
 </div>
