@@ -76,12 +76,13 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RMR-Amon/RMR-Amon/gh-pages/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RMR-Amon/RMR-Amon/gh-pages/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RMR-Amon/RMR-Amon/gh-pages/github-snake.svg" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RMR-Amon/RMR-Amon/gh-pages/github-snake-dark.svg" />
 </div>
+
+> Если нужно, можно вернуть светлую версию:
+> <div align="center">
+>   <img alt="Snake animation light" src="https://raw.githubusercontent.com/RMR-Amon/RMR-Amon/gh-pages/github-snake.svg" />
+> </div>
 
 ---
 
